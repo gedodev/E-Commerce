@@ -1,0 +1,8 @@
+Palletes Colors
+
+#C78283 Old Rose
+#F3D9DC Misty Rose
+#D7BEA8 Dun
+#B49286 Rosy Brown
+#744253 Eggsplant
+
